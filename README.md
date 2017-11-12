@@ -1,10 +1,14 @@
 # hackdeblend
+
 Hack 'de Blend: A Deblending Task Force Hack
 
 ## Motivation
-This repository is a space for developing (and executing) a bite-sized project contributing to the efforts of the LSST-DESC Deblending Task Force.  
+
+This repository is a space for developing and executing a bite-sized project contributing to the efforts of the LSST-DESC Deblending Task Force.  A strong possibility is to use @esheldon's catalogs to explore the relationships between bias and other parameters.  The files in question can be found at /global/projecta/projectdirs/lsst/groups/WL/users/esheldon/nbrsim-outputs/collated/ on NERSC.
 
 ## People
+
 * [Alex Malz](https://github.com/aimalz) (NYU)
 * [Davd Kirkby](https://github.com/dkirkby) (UCI)
 * Add your name here!
+* The Deblending Task Force
